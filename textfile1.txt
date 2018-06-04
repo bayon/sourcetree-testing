@@ -1,2 +1,3 @@
 I make a new line to test uncommitted changes.
 anne adds line to a different fiile.
+007 adds line at bottom.

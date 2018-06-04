@@ -1,2 +1,3 @@
 I make a new line to test uncommitted changes.
+alt-dev adds line at position 2
 anne adds line to a different fiile.
